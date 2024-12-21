@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm PRADEEP 👋
 
-<!--
-**Pradeepramani/Pradeepramani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I am a **Full Stack Developer** passionate about building applications that solve real-world problems. I specialize in React, Node.js, and Cloud technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React, JavaScript, CSS, HTML
+- Backend: Node.js, Express
+- Databases: MongoDB, PostgreSQL
+- Tools: Git, GitHub, AWS
+
+
+## 🌱 Current Focus
+- Learning about **Machine Learning** and how I can integrate it into web apps.
+- Improving my skills in **Cloud Engineering**.
