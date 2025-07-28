@@ -1,16 +1,24 @@
-# Hi, I'm PRADEEP 👋
+Hi, I'm PRADEEP 👋
+👨‍💻 About Me
+I am a Full Stack Developer passionate about building applications that solve real-world problems. I specialize in React, Node.js, and Cloud technologies — and also work extensively in LabWare LIMS, Agentic AI, and PySpark for data-driven enterprise applications.
 
-## 👨‍💻 About Me
-I am a **Full Stack Developer** passionate about building applications that solve real-world problems. I specialize in React, Node.js, and Cloud technologies.
+🛠️ Technologies & Tools
+Frontend: React, JavaScript, CSS, HTML
 
-## 🛠️ Technologies & Tools
+Backend: Node.js, Express
 
-- Frontend: React, JavaScript, CSS, HTML
-- Backend: Node.js, Express
-- Databases: MongoDB, PostgreSQL
-- Tools: Git, GitHub, AWS
+Databases: MongoDB, PostgreSQL
 
+AI & Data: PySpark, Agentic AI, LangChain, LLMs
 
-## 🌱 Current Focus
-- Learning about **Machine Learning** and how I can integrate it into web apps.
-- Improving my skills in **Cloud Engineering**.
+Enterprise: LabWare LIMS
+
+Tools: Git, GitHub, AWS, Docker
+
+🌱 Current Focus
+Building AI-integrated apps using RAG pipelines and transformers
+
+Advancing in Cloud Engineering and Machine Learning Ops
+
+Automating workflows in LIMS and using PySpark for big data analytics
+
